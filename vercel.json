@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/index", "destination": "/api/index.js" }
+  ],
+  "public": "public"
+}
